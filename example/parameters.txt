@@ -1,0 +1,3 @@
+files	plugins/CCA/example/files.txt
+type	regular
+possibleconnections	plugins/CCA/example/connections.csv

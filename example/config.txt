@@ -1,0 +1,2 @@
+Prefix plugins/CCA/example
+Plugin CCA inputfile parameters.txt outputfile output.nutrimouse
