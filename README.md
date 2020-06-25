@@ -28,3 +28,6 @@ data should be regularized.
 A plot will be produced of each measurements along the top two principal components,
 and additionally one output file per variable (prefix.variable.csv) will be generated
 with principal component values.
+
+Note: Input CSV files were generated from the "nutrimouse" dataset, available
+with mixOmics.  Regular and Sparse CCA are also part of the mixOmics library (Rohart et al, 2017).
