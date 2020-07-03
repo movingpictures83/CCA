@@ -1,0 +1,3 @@
+plugins/CCA/example/nutrimouse.gene.csv	gene	1
+plugins/CCA/example/nutrimouse.lipid.csv	lipid	1
+plugins/CCA/example/nutrimouse.diet.csv	diet	0
